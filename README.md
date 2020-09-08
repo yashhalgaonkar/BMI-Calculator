@@ -2,5 +2,7 @@
 A simple Flutter app to calculate your BMI.
 
 ## Screenshots
-![BMI-Calculator-1](https://user-images.githubusercontent.com/48143957/83155886-56c48800-a11f-11ea-8b37-80e3cb469b73.jpg)
-![BMI Calculator-2](https://user-images.githubusercontent.com/48143957/83155898-5af0a580-a11f-11ea-88e1-28902d5131f9.jpg)
+![bmi0](https://user-images.githubusercontent.com/48143957/92476265-4b8ff680-f1fc-11ea-9e82-59df247b81aa.jpg)
+![bmi1](https://user-images.githubusercontent.com/48143957/92476260-49c63300-f1fc-11ea-979a-5aad79b23187.jpg)
+
+
